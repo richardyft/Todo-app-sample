@@ -15,7 +15,7 @@ Run `npm run webpack` to build the dev JS with the source map.
 
 Run `npm run webpack-production` to build the production JS.
 
-## Tests
+## Run Tests
 
 Run `npm run test`.
 
